@@ -1,0 +1,31 @@
+.topbar {}
+
+.container {
+    background-color: #cce6da;
+    position: absolute;
+    width: 1440px;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+}
+
+.logoImage {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 4px;
+    position: absolute;
+    width: 152px;
+    height: 48px;
+    left: 47px;
+    top: 8px;
+}
+
+.textTopbar {
+    position: absolute;
+    width: 896px;
+    height: 48px;
+    left: 497px;
+    top: 8px;
+}
